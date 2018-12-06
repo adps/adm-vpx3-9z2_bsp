@@ -8,3 +8,6 @@
 [submodule "fsbl-vivado_admvpx39z2"]
 	path = fsbl-vivado_admvpx39z2
 	url = https://github.com/adps/fsbl-vivado_admvpx39z2.git
+[submodule "u-boot-ad-zynqmp"]
+	path = u-boot-ad-zynqmp
+	url = https://github.com/adps/u-boot-ad-zynqmp.git
