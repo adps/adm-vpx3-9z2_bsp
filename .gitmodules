@@ -4,3 +4,22 @@
 [submodule "fsbl-vivado_admvpx39z2"]
 	path = fsbl-vivado_admvpx39z2
 	url = https://github.com/adps/fsbl-vivado_admvpx39z2.git
+[submodule "OS/meta-adlnx"]
+	path = OS/meta-adlnx
+	url = https://github.com/adps/meta-adlnx.git
+	branch = admvpx39z2
+[submodule "OS/meta-admvpx39z"]
+	path = OS/meta-admvpx39z
+	url = https://github.com/adps/meta-admvpx39z.git
+[submodule "OS/poky"]
+	path = OS/poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = morty
+[submodule "OS/meta-xilinx"]
+	path = OS/meta-xilinx
+	url = https://github.com/Xilinx/meta-xilinx.git
+	branch = rel-v2017.4
+[submodule "OS/openembedded-core"]
+	path = OS/openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+	branch = morty
