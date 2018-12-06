@@ -1,4 +1,6 @@
 Instructions for building the projects can be found in ad-ug-0078-ADM-VPX3-9Z2-BSP-Guide.pdf
 
 If the files in this repository are empty, check it out again with the --recursive flag, e.g:
-  clone https://github.com/adps/adm-vpx3-9z2_bsp.git --recursive
+
+clone https://github.com/adps/adm-vpx3-9z2_bsp.git --recursive
+  
